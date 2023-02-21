@@ -8,6 +8,7 @@ import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import Tooltip from "@material-ui/core/Tooltip";
 import Icon from "@material-ui/core/Icon";
+import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
 
 // @material-ui/icons
 import { Apps, CloudDownload } from "@material-ui/icons";
