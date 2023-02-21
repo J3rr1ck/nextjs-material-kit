@@ -38,7 +38,7 @@ export default function Components(props) {
   return (
     <div>
       <Header
-        brand="NextJS Material Kit"
+        brand="Gnos AI"
         rightLinks={<HeaderLinks />}
         fixed
         color="transparent"
@@ -55,7 +55,7 @@ export default function Components(props) {
               <div className={classes.brand}>
                 <h1 className={classes.title}>NextJS Material Kit.</h1>
                 <h3 className={classes.subtitle}>
-                  A Badass Material Kit based on Material-UI and NextJS.
+                Providing cutting-edge AI and Information Security Services to businesses of all sizes.
                 </h3>
               </div>
             </GridItem>
