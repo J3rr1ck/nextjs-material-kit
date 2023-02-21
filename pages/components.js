@@ -53,7 +53,7 @@ export default function Components(props) {
           <GridContainer>
             <GridItem>
               <div className={classes.brand}>
-                <h1 className={classes.title}>NextJS Material Kit.</h1>
+                <h1 className={classes.title}>Gnos AI.</h1>
                 <h3 className={classes.subtitle}>
                 Providing cutting-edge AI and Information Security Services to businesses of all sizes.
                 </h3>
