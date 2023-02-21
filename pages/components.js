@@ -54,9 +54,9 @@ export default function Components(props) {
             <GridItem>
               <div className={classes.brand}>
                 <h1 className={classes.title}>Gnos AI.</h1>
-                <h3 className={classes.subtitle}>
+                <h2 className={classes.subtitle}>
                 Providing cutting-edge AI and Information Security Services to businesses of all sizes.
-                </h3>
+                </h2>
               </div>
             </GridItem>
           </GridContainer>
