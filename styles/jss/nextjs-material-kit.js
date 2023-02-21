@@ -151,32 +151,32 @@ const roseBoxShadow = {
 };
 
 const warningCardHeader = {
-  color: "#fff",
+  color: "#000",
   background: "linear-gradient(60deg, #ffa726, #fb8c00)",
   ...warningBoxShadow,
 };
 const successCardHeader = {
-  color: "#fff",
+  color: "#000",
   background: "linear-gradient(60deg, #66bb6a, #43a047)",
   ...successBoxShadow,
 };
 const dangerCardHeader = {
-  color: "#fff",
+  color: "#000",
   background: "linear-gradient(60deg, #ef5350, #e53935)",
   ...dangerBoxShadow,
 };
 const infoCardHeader = {
-  color: "#fff",
+  color: "#000",
   background: "linear-gradient(60deg, #26c6da, #00acc1)",
   ...infoBoxShadow,
 };
 const primaryCardHeader = {
-  color: "#fff",
+  color: "#000",
   background: "linear-gradient(60deg, #ab47bc, #8e24aa)",
   ...primaryBoxShadow,
 };
 const roseCardHeader = {
-  color: "#fff",
+  color: "#000",
   background: "linear-gradient(60deg, #ec407a, #d81b60)",
   ...roseBoxShadow,
 };

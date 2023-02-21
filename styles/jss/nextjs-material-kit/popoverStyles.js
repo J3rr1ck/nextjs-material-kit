@@ -4,7 +4,7 @@ const popoverStyles = {
     boxShadow:
       "0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2)",
     lineHeight: "1.5em",
-    background: "#fff",
+    background: "#000",
     border: "none",
     borderRadius: "3px",
     display: "block",
@@ -28,7 +28,7 @@ const popoverStyles = {
     marginTop: "5px",
   },
   popoverHeader: {
-    backgroundColor: "#fff",
+    backgroundColor: "#000",
     border: "none",
     padding: "15px 15px 5px",
     fontSize: "1.125rem",
