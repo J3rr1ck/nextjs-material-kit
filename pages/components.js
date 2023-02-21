@@ -64,6 +64,7 @@ export default function Components(props) {
       </Parallax>
       <div className={classNames(classes.main, classes.mainRaised)}>
 /*      <SectionCarousel />
+        <SectionDownload />
   */
       </div>
       <Footer />
